@@ -1,13 +1,12 @@
 # APIs
 Listed here are the APIs for your use.
-* Browse the APIs here. Visit docs etc.
-* Meet with the API sponsors at the hackathon, particularly on Saturday morning
+* Browse the APIs here and visit their documentation.
 * Communicate with the API sponsors via their dedicated Discord channel.
 * Deploy your apps with Netlify. 
 
 # Fauna
 #### Quick Description
-Cloud database with generous free plan and distributed ACID transactions for global data integrity. Get started easily and scale to worldwide success.
+A cloud database with generous free plan and distributed ACID transactions for global data integrity. Get started easily and scale to worldwide success.
 
 ### Purpose
 Stores transactional data like account balances, user profiles, social media content, shopping cart orders, etc.
@@ -41,9 +40,7 @@ Coming soon.
 
 ### Prizes
 
-1st: Apple Watch
-2nd: Oculus Go standalone VR headset
-3rd: $100 iTunes Gift card
+Coming soon.
 
 
 ***
@@ -74,6 +71,7 @@ https://formspree.io/docs/
 
 ### Prizes
 
+Coming soon.
 
 ***
 
@@ -179,7 +177,7 @@ Client](https://www.apollographql.com/docs/react/). Here are some popular client
 
 ### Prizes
 
-TBA
+Coming soon.
 
 ***
 
@@ -232,23 +230,14 @@ We'll be there hacking with you the whole time.
 
 ### Prizes
 
-First prize will be a Parrot BEBOP 2 FPV drone.  Pretty sweet!
-
-https://www.parrot.com/us/drones/parrot-bebop-2-fpv
-
-![Parrot BEBOP 2 FPV drone](https://www.parrot.com/files/s3fs-public/styles/product_teaser_display/public/compo_bebop_2_fpv_0.png)
+Coming soon.
 
 ***
 
 # Overall Winners
-#### The top 6 teams will present to a panel of judges including representatives from freeCodeCamp, Netlify, Formspree, and Fauna.
-Note: "Overall" winners are separate from the "API winners". Each API sponsor will have their own challenges and prizes, which you can see above.
 
 ### Prizes
-* Top 6 teams
-  * Demo your product for around 10 minutes in the GitHub Video Booth to be displayed to the other hackers on televisions around the office, and to be recorded to be posted on line and shared via the freeCodeCamp blog!
 * Top 3 Teams
-  * Present your product on the GitHub stage in front of your fellow hackers! Get your presentation recorded for the livestream, and also recorded for later publication on the freeCodeCamp blog!
   * 3rd place: $200 cash prize
   * 2nd place: $300 cash prize
   * 1st place: $500 cash prize

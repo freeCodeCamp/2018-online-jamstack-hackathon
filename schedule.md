@@ -1,6 +1,8 @@
 # Schedule
 
-Note: This schedule is a guideline. Actual times may vary. Watch for announcements in the Discord channel `announcements`.
+Note: This schedule is a guideline, and is for the San Francisco event. Actual times may vary. Watch for announcements in the Discord channel `announcements`. These times are all in PST. 
+
+You can watch these events on the livestream at youtube.com/freecodecamp if you want. Feel free to work on your project throughout the weekend until Sunday night at 11 p.m. GMT.
 
 ## Saturday, November 3
 9:00am - Doors open  

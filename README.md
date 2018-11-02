@@ -1,4 +1,5 @@
-# 2018 freeCodeCamp JAMstack Hackathon
+# 2018 Online freeCodeCamp JAMstack Hackathon
+
 If you want to succeed at this hackathon, please read this document and its subsequent files in their entirety before you begin.
 
 ## Checklist
@@ -7,7 +8,7 @@ Please read the following carefully, and act on each item that requires your att
 - [ ] Fork this repository
 - [ ] Make sure that you have a ticket from Tito. Check your email -- Quincy has emailed your ticket to you.
 - [ ] Join the freeCodeCamp JAMstack Hackathon Discord Group (Quincy has emailed that link to all ticket holders). Please do not share this link with non-participants.
-- [ ] Chat with others in the Discord group to brainstorm ideas and form teams. You will also have time on Saturday morning for this. IMPORTANT: Remote hackathon participants cannot team up with in-person participants. This is to simplify the process and ensure that all teams are starting from the same baseline.
+- [ ] Chat with others in the Discord group to brainstorm ideas and form teams. You will also do this after the hackathon has begun. IMPORTANT: Online hackathon participants cannot team up with in-person participants. This is to simplify the process and ensure that all teams are starting from the same baseline.
 - [ ] Review this `README.md` file for further instructions and guidelines
 - [ ] Review the [APIs](/apis.md)
 - [ ] Ask questions to API sponsors directly on their Discord channel (i.e. `api-netlify`)
@@ -17,9 +18,6 @@ Please read the following carefully, and act on each item that requires your att
 - [ ] Review the [Schedule](/schedule.md)
 - [ ] Review the resources and recommendations for [Getting Started](/getting-started.md) with the JAMstack. This will give you good resources for starting your project.
 - [ ] Ensure that you deploy your project with [Netlify](https://www.netlify.com). You should already have an account per the hackathon application instructions
-- [ ] Bring a refillable water bottle
-- [ ] BRING A POWER STRIP to use and share with others! We recommend putting tape on it to write your name.
-- [ ] If you plan on drinking alcohol on Sunday evening during the awards ceremony, you'll need to bring a valid government-issued photo identification showing that you're at least 21 years of age.
 
 ## How is this hackathon different?
 
@@ -27,10 +25,8 @@ Most hackathons focus principally on the end-goal -- the product. While this hac
 
 ### The Process -- what it means
 
-Building great software isn't just about the code you write. Your planned approach to building it that is equally if not more important. So here's what this means for you as a hacker at this hackathon:
-* Judges will pose a number of questions for you, and share them with you in the Discord group
-* Judges will visit teams and ask you these questions to see how you are handling your approach to building your app. Do you have a plan of action? Are you organized in your list of responsibilities and dividing tasks? Are the goals realistic given the limited time frame?
-* These ad-hoc interviews will take place shortly after lunch on Saturday. We will livestream the
+Building great software isn't just about the code you write. Your planned approach to building it is just as important. So here's what this means for you as a hacker at this hackathon:
+* Judges will pose a number of questions for you, and share them with you in the Discord group to see how you are handling your approach to building your app. Do you have a plan of action? Are you organized in your list of responsibilities and dividing tasks? Are the goals realistic given the limited time frame?
 * Your answers to these questions will be a small percentage of your overall judging score.
 
 
@@ -41,19 +37,6 @@ Note: This code applies to both in-person and online interaction. Violations wil
 
 ## Purpose
 The Hackathon is designed to be a fun and educational environment. Of course there will also be competition for prizes -- but our main goal is education, building community, and learning to use some cool APIs and technologies!
-
-## Perks
-
-Thanks to the generosity of GitHub, you will have coffee, breakfast, lunch, and light dinner on all three days! 👏*applause for GitHub*👏  
-
-Send them a thank you note for being the most amazing hosts on [Twitter](https://twitter.com/github)!
-
-Once hacking ends on Sunday, we'll celebrate with some beer, wine, cocktails and mockatails, and watch the top 6 teams get interviewed. The interviews will be broadcast on the many monitors at GitHub's office. Then we'll reconvene to see the top 3 teams present on stage!
-
-## Location
-GitHub HQ  
-88 Colin P Kelly Jr St,  
-San Francisco, CA 94107  
 
 ## Team Size
 * Max team size: 6
@@ -81,4 +64,4 @@ Review the APIs in the [apis.md](./apis.md) file in this repository. Mingle with
 
 #### If you don't have a team
 1. Browse teams in the [teams.md](/teams.md) file of this repo
-2. Contact team members via Discord or in-person on Saturday morning
+2. Find team members or a team to join using Discord

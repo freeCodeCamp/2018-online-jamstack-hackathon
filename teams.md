@@ -13,7 +13,7 @@
     - Teammate Name (@discordUserProfileName)
 * Seeking Teammates: Yes/No
 * [Project URL](https://github.com/your-profile/your-project-name)
-* Project Name (ok to say tbd and update later)
+* Project Name (ok to say "coming soon" and update it later)
 
 ***
 ```
