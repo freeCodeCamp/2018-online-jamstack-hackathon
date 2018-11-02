@@ -29,5 +29,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Itsik  (@Itsik)
 * **Seeking Teammates**: yes
 * [GitHub URL](https://github.com/oshka/suncodeflower)
+* SunCodeFlower
 
 ***
