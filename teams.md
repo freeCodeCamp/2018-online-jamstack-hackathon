@@ -32,3 +32,20 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# FindUrFeeling.
+### Using FindYourFeeling, Any human can find their feeling based on Clarifai API mainly focused on facial expression detection.
+
+* Teammates:
+    - Monica Pattel (@MonikaPatellT)
+    - Qasim Hafeez (@Qasim)
+    - Juan Pablo Yeverino (@JPYeverino)
+    - Nassim (@Nsdz)
+    - Rossella Ferrandino (@RosellaFer)
+    - bvipul (@bvipul)
+
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/your-profile/your-project-name)
+* Find Ur Feeling
+
+***
