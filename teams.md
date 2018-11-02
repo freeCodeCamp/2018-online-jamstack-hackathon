@@ -32,3 +32,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# CMintS
+### [CMintS](https://cmints.io) is a CMS and static site generator created with the internationalization in mind, but yet it's not deployable to the Netlify, I've made it deployable lately to the Github Pages(it's only option yet), the idea is to during current Hackathon create a multilanguage website and deploy it to the Netlify, meanwhile adapt actual [CMintS package](https://www.npmjs.com/package/cmints) to support Netlify deployment as hassless as possible, also document the deployment process in https://cmints.io.
+* Teammates:
+    - Manvel (@saroyanm)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/Manvel/cmints)
+* CMintS
+
+***
