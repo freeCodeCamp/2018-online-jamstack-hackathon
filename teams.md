@@ -28,8 +28,10 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Olha  (@oshka)
   - Itsik  (@Itsik)
   - Alberto (@SoLdAdO0020)
+  - John (@johnotu#0732)
 
-* **Seeking Teammates**: yes
+
+* **Seeking Teammates**: no
 * [GitHub URL](https://github.com/oshka/suncodeflower)
 * SunCodeFlower
 
