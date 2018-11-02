@@ -38,6 +38,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
 * Seeking Teammates: Yes
-* [Project URL](https://github.com/your-profile/your-project-name)
+* [Project URL](https://romantic-euler-651676.netlify.com/)
 
 ***
