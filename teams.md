@@ -27,8 +27,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * **Teammates**:
   - Olha  (@oshka)
   - Itsik  (@Itsik)
-  - Alberto (@SoLdAdO0020)
-  - John (@johnotu#0732)
+  - Alberto (@Albertoescala)
+  - John (@johnotu)
 
 
 * **Seeking Teammates**: no
