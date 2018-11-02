@@ -32,3 +32,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# PawnShopify
+### An online pawn shop
+* **Teammates**:
+  - @Jarrod
+  - @smakosh
+  - @kBrew
+* **Seeking Teammates**: No
+* [Project URL](https://github.com/appleJax/pawn-shopify)
+* **Team Name**: Prestige Worldwide
+
+***
