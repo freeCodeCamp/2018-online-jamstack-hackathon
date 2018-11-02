@@ -32,3 +32,12 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# Work in Progress
+### Work in Progress
+* Teammates:
+    - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/your-profile/your-project-name)
+
+***
