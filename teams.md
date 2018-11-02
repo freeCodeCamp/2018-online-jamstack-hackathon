@@ -33,8 +33,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# Work in Progress
-### Work in Progress
+# MAYN! MAYN! MAYN!
+### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons.
 * Teammates:
     - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
 * Seeking Teammates: Yes
