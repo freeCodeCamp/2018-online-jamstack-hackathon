@@ -142,4 +142,3 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
             * [Project Name] Kids Kata
 
 ***
-***
