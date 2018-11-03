@@ -132,3 +132,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# BadCodersBad
+### Get a list of ingredients in your meal, with their nutrition, calorie value.
+* Teammates:
+    - Vipul Dessai (@badgamerbad)
+    - Kartik Malik (@arrow2406)
+* Seeking Teammates: No
+* [Project URL](https://github.com/kartik2406/ingredo-fit)
+* Project Name: IngredoFit
+
+***
