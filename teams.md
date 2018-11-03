@@ -141,7 +141,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - @Marifer#8861 
     - @Ma7eer#3701 
 * Seeking Teammates: No
-* [Project URL](https://github.com/hamiltonbarnes/bater_hub-freecodecamp-jamstackhackathon2018)
+* [Project URL](https://github.com/hamiltonbarnes/barter_hub-freecodecamp-jamstackhackathon2018)
 * Project Name: Barter Hub 
 
 ***
