@@ -190,3 +190,14 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name: SMSRenewal
 
 ***
+
+
+# Farmer Helper
+### Machine Learning powered application that can predict the disease plant is suffering from by just using the image and can also provide some suggestion for how to cure it. Discussion platform that enables farmers to discuss how he has to proceed further.
+* Teammates:
+    - Hardik Modi (@hardik)
+* Seeking Teammates: No
+* Coming Soon
+* Project Name: Farmerhelper
+
+***
