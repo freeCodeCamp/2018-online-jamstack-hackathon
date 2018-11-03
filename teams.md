@@ -201,6 +201,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL](https://github.com/sdabhi23/count-em-all)
 * Count'em All
 
+# Thascii
+### A facial recognition authentication SPA
+* Teammates:
+    - Samuel Afolaranmi (@asiidev)
+    - Ali Nisar Ahmed (@downrightcriminal)
+    - Pavlos (@pavlos)
+    - Sarthak (@Sarthak)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ascii-dev/thascii)
+* Project Name Thascii
+
 ***
 
 # HoustonHacks
