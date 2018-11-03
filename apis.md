@@ -106,6 +106,9 @@ JavaScript API endpoint reference: https://sdk.clarifai.com/js/latest/index.html
 ### Video tutorial
 4 minute Intro to Clarifai including an API demo with the Python client: https://youtu.be/YOrrROME2zc
 
+### Prizes
+
+1st place team: $500 cash
 
 ***
 
