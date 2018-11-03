@@ -313,3 +313,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
 ***
+
+# Extra-Life Donation Leaderboard
+### In the spirit of Extra-Life Game Day raising money for Children's Miracle Network, we are creating a leaderboard to show the donations received from the members of our team and allows you to see live updates using React. 
+* Teammates:
+  - Christopher Tse (@Gavlois)
+  - Joe Matthews
+  - Hong L
+  - Natalie Fleming
+* Seaking Teammates: No
+* [Project URL](https://github.com/chris-tse/extralifeleaderboard)
+* Project Name: Extra-Life Donations Leaderboard
+
+***
