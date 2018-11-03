@@ -132,3 +132,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Haptreyscorwix
+### An app for finding music matching your video. It uses video recognition to match subjectively the description to a musical genre.
+* Teammates:
+    - Julien Demarque (@HappyPanda)
+    - Adrian Wix (@AdrianWix)
+    - Trey Huffine(@trey)
+    - Ahmed Ihsan Tawfeeq (@scorpion9979)
+* Seeking Teammates: No
+* [Project URL](https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher)
+* Project Name : Video Audio Matcher
+
+***
