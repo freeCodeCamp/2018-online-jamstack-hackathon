@@ -32,3 +32,12 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# MAYN! MAYN! MAYN!
+### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons.
+* Teammates:
+    - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
+* Seeking Teammates: Yes
+* [Project Website](https://romantic-euler-651676.netlify.com/)
+* [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
+***
