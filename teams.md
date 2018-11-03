@@ -130,7 +130,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL](https://github.com/teamjake2018/jake)
 * Project Name: coming soon
 
-***
 # Kungara
 ### The app helps the tailor or designers to avail different designs and fabrics to their clients. The clients can also send their measurements and images to the tailors.
 * Teammates:
@@ -138,7 +137,4 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Teammate Name (@JackieW)
     - Teammate Name (@okothkongo)
 * Seeking Teammates: No
-* [Project URL](https://github.com/abujekongo/mshono)
-
-
-***
+* [Project URL](https://github.com/Podiihq/kungara)
