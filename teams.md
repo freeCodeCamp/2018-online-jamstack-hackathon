@@ -130,6 +130,21 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL](https://github.com/teamjake2018/jake)
 * Project Name: coming soon
 
+
+# Mathosaurus X
+### A math RPG - level up and win badges while learning real math skills
+* Teammates:
+    - Ruan Huysen (@Rhman101)
+    - Regina McGuire (@reginam)
+    - Devesh Parashar (@dopinder)
+    - Rein Yee Deocareza (@chi?)
+    - Emma Margeson (@mawarijo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/deveshp/jamstack-hackathon)
+
+***
+
+
 ***
 
 # HoustonHacks
