@@ -315,6 +315,26 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# 1000 Words
+### A site where people can submit an image and get results based on the general feel of the image.
+* Teammates:
+    - Daniel Ramsayer (@Neko#9307)
+    - Daniel Evans (@Gate#5312)
+    - Peter Durham (@funoptimizer#2690)
+    - Aaron Baker (@Muluul#6162)
+    - Tony Neuhold (@aneuhold#3384)
+* Seeking Teammates: No
+* [Project URL](https://1000-words.netlify.com/)
+### Project Q&A:
+1. What are you going to build?  
+	A site that will take in an image and return various results based on the words that the image provides. We will try to get it to return a poem, or some kind of book. We might try to add different kinds of results as well. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+	Clarifai, FaunaDB (probably)
+3. What is your plan to execute this idea?  
+	To test the basic idea of getting an image to return results in the form of a poem, or a list of thematically relavant material such as a small list of songs. After that we will try to build out different features. 🙂
+
+***
+
 # HAKO
 ### An app where we can choose and put the film we like on watchlist
 * Teammates
