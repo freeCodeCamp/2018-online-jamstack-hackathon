@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR and tag `@dunphyben` in the comments of that PR.
+### Create a Pull Request
 
 ### STYLE GUIDE:  
 
@@ -13,7 +13,14 @@
     - Teammate Name (@discordUserProfileName)
 * Seeking Teammates: Yes/No
 * [Project URL](https://github.com/your-profile/your-project-name)
-* Project Name (ok to say "coming soon" and update it later)
+* Project Name (ok to say tbd and update later)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 ```
@@ -30,6 +37,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Matt Biilmann (@biilmann)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/your-profile/your-project-name)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 
@@ -110,10 +124,10 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # MAYN! MAYN! MAYN!
-### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons.
+### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons. [This video will make this things clearer.](https://www.youtube.com/watch?v=p-3e0EkvIEM)
 * Teammates:
     - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
-* Seeking Teammates: Yes
+* Seeking Teammates: No
 * [Project Website](https://romantic-euler-651676.netlify.com/)
 * [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
 
@@ -131,6 +145,87 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name: coming soon
 
 ***
+# Kids Kata
+### Learning Platform for kids to learn and memorize name of objects, colors and animals with the use of images. It also favours autistic kids. 
+* Teammates:
+    - Getty Orawo (@Getty)
+    - Pollet Obuya (@P.)
+    - Peter Omondi (@pomosly)
+            * Seeking Teammates: No
+            * [Project URL](https://github.com/Podiihq/kids-kata.git)
+            * Project Name: Kids Kata
+
+***
+
+# Haptreyscorwix
+### An app for finding music matching your video. It uses video recognition to match subjectively the description to a musical genre.
+* Teammates:
+    - Julien Demarque (@HappyPanda)
+    - Adrian Wix (@AdrianWix)
+    - Trey Huffine(@trey)
+    - Ahmed Ihsan Tawfeeq (@scorpion9979)
+* Seeking Teammates: No
+* [Project URL](https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher)
+* Project Name : Video Audio Matcher
+
+***
+
+# Kungara
+### The app helps the tailor or designers to avail different designs and fabrics to their clients. The clients can also send their measurements and images to the tailors.
+* Teammates:
+    - Teammate Name (@MemoryJos)
+    - Teammate Name (@JackieW)
+    - Teammate Name (@okothkongo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Podiihq/kungara)
+***
+
+# Mathosaurus X
+### A math RPG - level up and win badges while learning real math skills
+* Teammates:
+    - Ruan Huysen (@Rhman101)
+    - Regina McGuire (@reginam)
+    - Devesh Parashar (@dopinder)
+    - Rein Yee Deocareza (@chi?)
+    - Emma Margeson (@mawarijo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/deveshp/jamstack-hackathon)
+
+***
+
+# Team Barter Hub
+### An E-commerce site for bartering goods
+* Teammates:
+    - @Davido#4076
+    - @gopikrishna#8032 
+    - @Lonewolf#5690 
+    - @Marifer#8861 
+    - @Ma7eer#3701 
+* Seeking Teammates: No
+* [Project URL](https://github.com/hamiltonbarnes/barter_hub-freecodecamp-jamstackhackathon2018)
+* Project Name: Barter Hub 
+
+# Count'em All
+### A simple app to count the number of people attending a gathering
+* Teammates:
+    - Shrey Dabhi (@sdabhi23)
+    - Sohel Shaikh (@thesohelshaikh)
+* Seeking Teammates: No
+* [Project URL](https://github.com/sdabhi23/count-em-all)
+* Count'em All
+
+# Thascii
+### A facial recognition authentication SPA
+* Teammates:
+    - Samuel Afolaranmi (@asiidev)
+    - Ali Nisar Ahmed (@downrightcriminal)
+    - Pavlos (@pavlos)
+    - Sarthak (@Sarthak)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ascii-dev/thascii)
+* Project Name Thascii
+
+***
 
 # ALA
 ### Trying to decide for the moment
@@ -144,3 +239,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# HoustonHacks
+### Reminder service that sends SMS/email renewal reminders to customers based on renewal date
+* Teammates:
+    - Hector J. Saldana (@electricgnome)
+    - Biko Allen (@kobi1021)
+    - Earle Poole (@Emjp4)
+    - Yetunde Sola-Adebayo (@yetunde79)
+* Seeking Teammates: No
+* [Project URL](https://github.com/electricgnome/smsRenewal)
+* Project Name: SMSRenewal
