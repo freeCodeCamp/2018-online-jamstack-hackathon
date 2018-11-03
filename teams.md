@@ -132,3 +132,12 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# HAKO
+### An app where we can choose and put the film we like on watchlist
+* Teammates
+  - Hiraz (@hiraz)
+  - Ali (@Ali)
+  - Ann (@kun)
+* Seeking teammate: Yes
+* [Project URL] (https://github.com/AnnLe4869/HackathonProject)
+
