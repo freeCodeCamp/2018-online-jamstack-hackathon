@@ -46,7 +46,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 // your answer here  
 
 ***
-
 # CapeCoders
 ### This project is going to be a budgeting/expense app to help people manage their finances and track expenses.
 * Teammates:
@@ -132,6 +131,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project Website](https://romantic-euler-651676.netlify.com/)
 * [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
+
+***
+# FccFriendshipTest
+### A Simple JAMStack questions game App - More info coming soon
+* Teammates:
+    - Simon Xiong (@simonxcode)
+    - Akhil Alluri (@techalien)
+    - Ion Varsescu (@Ion Varsescu)
+    - Kopal (@km.)
+    - Sunday Joe (@pac_admin)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/techalien/FccFriendshipTest)
+* Coming soon
 
 ***
 
