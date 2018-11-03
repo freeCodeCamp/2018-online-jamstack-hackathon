@@ -46,6 +46,22 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 // your answer here  
 
 ***
+
+# SunCodeFlower
+### We created this team to participate in 2018 Online freeCodeCamp JAMstack Hackathon. Good luck to us!
+* **Teammates**:
+  - Olha  (@oshka)
+  - Itsik  (@Itsik)
+  - Alberto (@Albertoescala)
+  - John (@johnotu)
+
+
+* **Seeking Teammates**: no
+* [GitHub URL](https://github.com/oshka/SunFoodApp)
+* SunFoodApp
+
+***
+
 # CapeCoders
 ### This project is going to be a budgeting/expense app to help people manage their finances and track expenses.
 * Teammates:
