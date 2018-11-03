@@ -157,6 +157,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Haptreyscorwix
+### An app for finding music matching your video. It uses video recognition to match subjectively the description to a musical genre.
+* Teammates:
+    - Julien Demarque (@HappyPanda)
+    - Adrian Wix (@AdrianWix)
+    - Trey Huffine(@trey)
+    - Ahmed Ihsan Tawfeeq (@scorpion9979)
+* Seeking Teammates: No
+* [Project URL](https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher)
+* Project Name : Video Audio Matcher
+
+***
+
 # Kungara
 ### The app helps the tailor or designers to avail different designs and fabrics to their clients. The clients can also send their measurements and images to the tailors.
 * Teammates:
@@ -224,5 +237,3 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/electricgnome/smsRenewal)
 * Project Name: SMSRenewal
-
-***
