@@ -144,6 +144,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Team Barter Hub
+### An E-commerce site for bartering goods
+* Teammates:
+    - @Davido#4076
+    - @gopikrishna#8032 
+    - @Lonewolf#5690 
+    - @Marifer#8861 
+    - @Ma7eer#3701 
+* Seeking Teammates: No
+* [Project URL](https://github.com/hamiltonbarnes/barter_hub-freecodecamp-jamstackhackathon2018)
+* Project Name: Barter Hub 
+
 # Count'em All
 ### A simple app to count the number of people attending a gathering
 * Teammates:
