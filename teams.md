@@ -136,8 +136,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Ruan Huysen (@Rhman101)
     - Regina McGuire (@reginam)
-    - Devesh (@dopinder)
-    - (@chi?)
+    - Devesh Parashar (@dopinder)
+    - Rein Yee Deocareza (@chi?)
     - Emma Margeson (@mawarijo)
 * Seeking Teammates: No
 * [Project URL](https://github.com/deveshp/jamstack-hackathon)
