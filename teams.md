@@ -279,15 +279,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # HoustonHacks
-### Reminder service that sends SMS/email renewal reminders to customers based on renewal date
+### Reminder service that sends SMS or email renewal reminders to customers based on renewal date.
 * Teammates:
     - Hector J. Saldana (@electricgnome)
     - Biko Allen (@kobi1021)
     - Earle Poole (@Emjp4)
     - Yetunde Sola-Adebayo (@yetunde79)
+    - Josh Medeski (@Big_Josh_7)
 * Seeking Teammates: No
 * [Project URL](https://github.com/electricgnome/smsRenewal)
-* Project Name: SMSRenewal
+* Project Name: Renewal Reminder
 
 ***
 
