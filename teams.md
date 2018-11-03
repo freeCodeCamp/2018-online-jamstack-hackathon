@@ -313,3 +313,14 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
 ***
+
+# MarketGraph
+### Helps you quickly obtain & collect user data on project ideas & campaigns.
+* Teammates:
+    - Andy Cary (@andycary)
+    - Hays Stanford(@hays)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/your-profile/your-project-name)
+* Project Name (ok to say tbd and update later)
+
+***
