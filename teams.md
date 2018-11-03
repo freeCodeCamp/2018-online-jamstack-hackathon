@@ -132,6 +132,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ### [CMintS](https://cmints.io) is a CMS and static site generator created with the internationalization in mind, but yet it's not deployable to the Netlify, the idea is to during current Hackathon create a Multilanguage websites, Themes and deploy them to the Netlify, meanwhile adapt actual [CMintS package](https://www.npmjs.com/package/cmints) to support Netlify deployment. Also document the deployment process in https://cmints.io.
 * Teammates:
     - Manvel (@saroyanm)
+    - @Miss500
     - @OdearOgy
     - @satyendra
     - @nvs16
