@@ -132,7 +132,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# Barter Hub
+# Team Barter Hub
 ### An E-commerce site for bartering goods
 * Teammates:
     - @Davido#4076
