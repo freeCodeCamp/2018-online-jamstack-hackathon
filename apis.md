@@ -45,33 +45,72 @@ Coming soon.
 
 ***
 
-# Formspree
-#### Quick Description
-Connect your form to our endpoint and we’ll email you the submissions. No PHP, Javascript or sign up required.
 
+# Formspree
+
+https://formspree.io
 
 ### Purpose
-Formspree is a form backend, API and email service for HTML forms. It’s the simplest way to add custom contact forms, order forms, or email capture forms to your JAMstack website.
 
+Formspree is a form backend that emails you when someone submits your forms. It’s the simplest way to add custom contact forms, order forms, or email capture forms to your JAMstack website. Once you connect your form to our endpoint we’ll email you the submissions. No PHP, Javascript or sign up required.
 
-##### API endpoint:
-https://formspree.io/your@email.com
+### API endpoint
+
+To use formspree with an existing HTML form you must:
+
+1. change the `action` of your form to point to `https://formspree.io/<YOUR EMAIL>`
+2. make sure the `method` is `POST`, and
+3. give a `name` attribute to all your `input` tags.
+
+For example:
+
+```html
+<form action="https://formspree.io/your@email.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+```
+
+Try playing around with formspree in our sandbox at https://testformspree.com 
 
 ### Challenges
 
+Get a "contact us" form set up on your website! 
+
+Set up a serverless function to respond to a webhook each time a user submits the form, then fetch the content and use it to do something coool....
 
 ### Docs
+Using formspree is as easy as the `API endpoint` instructions. Try playing around with formspree at https://testformspree.com.
+
+You can have more control of how your forms are handled by formspree by adding special `type="hidden"` inputs. See the docs below for a list of the special input names that you can use. 
+
 https://formspree.io/docs/
 
+You can also find answers to common questions on our help site here:
+
+https://help.formspree.io/
+
+Finally, we will be here in the discord `#formspree-api` chat room to help you! Just look for the formspree logo. 
+
+<img src="https://formspree.io/img/formspree-logo-mark.png" width="250px">
+
+### API (Beta)
+
+We just launched an API beta. Check out the docs here: https://formspree.io/api. 
+
+We're continuing to add to those docs so check back occasionally. Also check out the Discord `#formspree-api` room for updates.
+
+Finally we're gonna offer coupons to people who want to test out our Gold / Platinum features (including APIs). Let us know in discord if you want free access.
+
 ### Video tutorial
+Nothing yet, but maybe we'll have one of these posted soon...
 
-
-### Presentation slides
 
 
 ### Prizes
 
-Coming soon.
+Off-site participants that use Formspree will be eligible to win an Amazon Gift Card worth $200. If Amazon gift cards aren't available in your country we will work with you to come up with an equivalent prize.
 
 ***
 
@@ -106,6 +145,9 @@ JavaScript API endpoint reference: https://sdk.clarifai.com/js/latest/index.html
 ### Video tutorial
 4 minute Intro to Clarifai including an API demo with the Python client: https://youtu.be/YOrrROME2zc
 
+### Prizes
+
+1st place team: $500 cash
 
 ***
 
@@ -230,7 +272,7 @@ We'll be there hacking with you the whole time.
 
 ### Prizes
 
-Coming soon.
+Top team using Pilon will receive $150 cash prize.
 
 ***
 
