@@ -312,6 +312,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Linda Kovacs (@lindakovacs)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
+
 ***
 
 # 1000 Words
@@ -331,5 +332,30 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 	Clarifai, FaunaDB (probably)
 3. What is your plan to execute this idea?  
 	To test the basic idea of getting an image to return results in the form of a poem, or a list of thematically relavant material such as a small list of songs. After that we will try to build out different features. 🙂
+
+***
+
+# HAKO
+### An app where we can choose and put the film we like on watchlist
+* Teammates
+  - Hiraz (@hiraz)
+  - Ali (@Ali)
+  - Ann (@kun)
+* Seeking teammate: Yes
+* [Project URL] (https://github.com/AnnLe4869/HackathonProject)
+
+***
+
+# TIL - Today I Learned
+### An application that accepts user submitted tips and tricks for new programmers
+* Teammates:
+    - Kevin Tan (@Node)
+    - Joseph Thompson (@Jthomps838)
+    - Nick Piaskoski (@pieguy)
+    - Chris Watkin  (@DeafDucky)
+    - Ahmed Belhadj (@Ahmed)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ktan114/JAMstack-Hackathon)
+* [GitHub URL](https://jamstack-hackathon-project.netlify.com/)
 
 ***
