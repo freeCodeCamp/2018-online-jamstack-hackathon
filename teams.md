@@ -110,10 +110,10 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # MAYN! MAYN! MAYN!
-### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons.
+### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons. [This video will make this things clearer.](https://www.youtube.com/watch?v=p-3e0EkvIEM)
 * Teammates:
     - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
-* Seeking Teammates: Yes
+* Seeking Teammates: No
 * [Project Website](https://romantic-euler-651676.netlify.com/)
 * [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
 
@@ -130,6 +130,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL](https://github.com/teamjake2018/jake)
 * Project Name: coming soon
 
+
+# Mathosaurus X
+### A math RPG - level up and win badges while learning real math skills
+* Teammates:
+    - Ruan Huysen (@Rhman101)
+    - Regina McGuire (@reginam)
+    - Devesh Parashar (@dopinder)
+    - Rein Yee Deocareza (@chi?)
+    - Emma Margeson (@mawarijo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/deveshp/jamstack-hackathon)
+
 ***
 
 # Team Barter Hub
@@ -143,5 +155,27 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/hamiltonbarnes/barter_hub-freecodecamp-jamstackhackathon2018)
 * Project Name: Barter Hub 
+
+# Count'em All
+### A simple app to count the number of people attending a gathering
+* Teammates:
+    - Shrey Dabhi (@sdabhi23)
+    - Sohel Shaikh (@thesohelshaikh)
+* Seeking Teammates: No
+* [Project URL](https://github.com/sdabhi23/count-em-all)
+* Count'em All
+
+***
+
+# HoustonHacks
+### Reminder service that sends SMS/email renewal reminders to customers based on renewal date
+* Teammates:
+    - Hector J. Saldana (@electricgnome)
+    - Biko Allen (@kobi1021)
+    - Earle Poole (@Emjp4)
+    - Yetunde Sola-Adebayo (@yetunde79)
+* Seeking Teammates: No
+* [Project URL](https://github.com/electricgnome/smsRenewal)
+* Project Name: SMSRenewal
 
 ***
