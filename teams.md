@@ -290,6 +290,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name: SMSRenewal
 
 ***
+
+# Farmer Helper
+### Machine Learning powered application that can predict the disease plant is suffering from by just using the image and can also provide some suggestion for how to cure it. Discussion platform that enables farmers to discuss how he has to proceed further.
+* Teammates:
+    - Hardik Modi (@hardik)
+* Seeking Teammates: No
+* Coming Soon
+* Project Name: Farmerhelper
+
+***
+
 # MagiKart
 ### Creating an eCommerce site using the Gatsby modern framework for blazing fast websites, hosted in GitHub, deployed with Netlify an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. This e-portal is including Shopping cart,  admin control for viewing the order information product information, New entry of product, edit the specified product, delete the product, User login password, new admin registration, data fetching from database, feedback form/rating, searching items using filters.
 * **Teammates of TeamHacky**:
