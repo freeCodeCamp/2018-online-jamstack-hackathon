@@ -32,3 +32,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# FccFriendshipTest
+### A Simple JAMStack questions game App - More info coming soon
+* Teammates:
+    - Simon Xiong (@simonxcode)
+    - Akhil Alluri (@techalien)
+    - Ion Varsescu (@Ion Varsescu)
+    - Kopal (@km.)
+    - Sunday Joe (@pac_admin)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/techalien/FccFriendshipTest)
+* Coming soon
+
+***
