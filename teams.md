@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR and tag `@dunphyben` in the comments of that PR.
+### Create a Pull Request
 
 ### STYLE GUIDE:  
 
@@ -13,7 +13,14 @@
     - Teammate Name (@discordUserProfileName)
 * Seeking Teammates: Yes/No
 * [Project URL](https://github.com/your-profile/your-project-name)
-* Project Name (ok to say "coming soon" and update it later)
+* Project Name (ok to say tbd and update later)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 ```
@@ -30,6 +37,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Matt Biilmann (@biilmann)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/your-profile/your-project-name)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 
