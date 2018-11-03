@@ -131,6 +131,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name: coming soon
 
 ***
+# Kids Kata
+### Learning Platform for kids to learn and memorize name of objects, colors and animals with the use of images. It also favours autistic kids. 
+* Teammates:
+    - Getty Orawo (@Getty)
+    - Pollet Obuya (@P.)
+    - Peter Omondi (@pomosly)
+            * Seeking Teammates: No
+            * [Project URL](https://github.com/Podiihq/kids-kata.git)
+            * Project Name: Kids Kata
+
+***
 
 # Kungara
 ### The app helps the tailor or designers to avail different designs and fabrics to their clients. The clients can also send their measurements and images to the tailors.
