@@ -288,3 +288,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/electricgnome/smsRenewal)
 * Project Name: SMSRenewal
+
+***
+# MagiKart
+### Creating an eCommerce site using the Gatsby modern framework for blazing fast websites, hosted in GitHub, deployed with Netlify an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. This e-portal is including Shopping cart,  admin control for viewing the order information product information, New entry of product, edit the specified product, delete the product, User login password, new admin registration, data fetching from database, feedback form/rating, searching items using filters.
+* **Teammates of TeamHacky**:
+  - Ronique Ricketts (@NiQ)
+  - Harshil Agrawal (@harshil1712)
+  - Cremona Matei (@cremzoo)
+  - Abhishek Yadav (@phoenixabhishek)
+  - Lakshmi Chandana (@chandana)
+  - Linda Kovacs (@lindakovacs)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
+***
