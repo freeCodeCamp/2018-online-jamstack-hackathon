@@ -43,11 +43,11 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 
 * **Seeking Teammates**: no
-* [GitHub URL](https://github.com/oshka/suncodeflower)
-* SunCodeFlower
+* [GitHub URL](https://github.com/oshka/SunFoodApp)
+* SunFoodApp
 
 ***
-=======
+
 # CapeCoders
 ### This project is going to be a budgeting/expense app to help people manage their finances and track expenses.
 * Teammates:
