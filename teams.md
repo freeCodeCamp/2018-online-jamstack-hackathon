@@ -33,6 +33,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# CapeCoders
+### This project is going to be a budgeting/expense app to help people manage their finances and track expenses.
+* Teammates:
+    - Christopher Karras (@ckarras)
+    - Dimo Ivanov (@Dimo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ckarras11/fcc-hackathon)
+* Project Name SpareChange
+
+***
+
 # Coming Soon
 ### An AI app that detects and identifies diseases on skin and plants.
 * Teammates:
