@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-### Create a PR and tag `@dunphyben` in the comments of that PR.
+### Create a Pull Request
 
 ### STYLE GUIDE:  
 
@@ -13,7 +13,14 @@
     - Teammate Name (@discordUserProfileName)
 * Seeking Teammates: Yes/No
 * [Project URL](https://github.com/your-profile/your-project-name)
-* Project Name (ok to say "coming soon" and update it later)
+* Project Name (ok to say tbd and update later)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 ```
@@ -30,6 +37,28 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Matt Biilmann (@biilmann)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/your-profile/your-project-name)
+### Project Q&A:
+1. What are you going to build?  
+// your answer here  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// your answer here  
+3. What is your plan to execute this idea?  
+// your answer here  
+
+***
+
+# SunCodeFlower
+### We created this team to participate in 2018 Online freeCodeCamp JAMstack Hackathon. Good luck to us!
+* **Teammates**:
+  - Olha  (@oshka)
+  - Itsik  (@Itsik)
+  - Alberto (@Albertoescala)
+  - John (@johnotu)
+
+
+* **Seeking Teammates**: no
+* [GitHub URL](https://github.com/oshka/SunFoodApp)
+* SunFoodApp
 
 ***
 
@@ -91,6 +120,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ### An online quiz app where questions would be asked on topics selected by the user. This is a timer-based quiz with four options for every question with only one being correct. Now, after successfully completing the quiz, the user will be mailed with a digital badge and the score reflecting his/her performance!
 * Teammates:
     - Priyabrata Biswas (@pbiswas101)
+		- Rajat Kanti Nandi (@rajatkn)
+		- Daniel Pöhle (@danielp)
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/pbiswas101/Quizard)
 * Project Name - Quizard
@@ -118,6 +149,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
 
 ***
+# FccFriendshipTest
+### A Simple JAMStack questions game App - More info coming soon
+* Teammates:
+    - Simon Xiong (@simonxcode)
+    - Akhil Alluri (@techalien)
+    - Ion Varsescu (@Ion Varsescu)
+    - Kopal (@km.)
+    - Sunday Joe (@pac_admin)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/techalien/FccFriendshipTest)
+* Coming soon
+
+***
 
 # JAKE
 ### Undecided, but tentatively a scavenger hunt web app
@@ -129,6 +173,30 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * **Seeking Teammates**: Yes, if you're a coding wizard and want to donate your magical skills, or if you're familiar with React basics
 * [Project URL](https://github.com/teamjake2018/jake)
 * Project Name: coming soon
+
+***
+# Kids Kata
+### Learning Platform for kids to learn and memorize name of objects, colors and animals with the use of images. It also favours autistic kids. 
+* Teammates:
+    - Getty Orawo (@Getty)
+    - Pollet Obuya (@P.)
+    - Peter Omondi (@pomosly)
+            * Seeking Teammates: No
+            * [Project URL](https://github.com/Podiihq/kids-kata.git)
+            * Project Name: Kids Kata
+
+***
+
+# Haptreyscorwix
+### An app for finding music matching your video. It uses video recognition to match subjectively the description to a musical genre.
+* Teammates:
+    - Julien Demarque (@HappyPanda)
+    - Adrian Wix (@AdrianWix)
+    - Trey Huffine(@trey)
+    - Ahmed Ihsan Tawfeeq (@scorpion9979)
+* Seeking Teammates: No
+* [Project URL](https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher)
+* Project Name : Video Audio Matcher
 
 ***
 
@@ -153,6 +221,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/deveshp/jamstack-hackathon)
 
+# BadCodersBad
+### Get a list of ingredients in your meal, with their nutrition, calorie value.
+* Teammates:
+    - Vipul Dessai (@badgamerbad)
+    - Kartik Malik (@arrow2406)
+* Seeking Teammates: No
+* [Project URL](https://github.com/kartik2406/ingredo-fit)
+* Project Name: IngredoFit
+
 ***
 
 # Team Barter Hub
@@ -176,6 +253,29 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URL](https://github.com/sdabhi23/count-em-all)
 * Count'em All
 
+# Thascii
+### A facial recognition authentication SPA
+* Teammates:
+    - Samuel Afolaranmi (@asiidev)
+    - Ali Nisar Ahmed (@downrightcriminal)
+    - Pavlos (@pavlos)
+    - Sarthak (@Sarthak)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ascii-dev/thascii)
+* Project Name Thascii
+
+***
+
+# ALA
+### Trying to decide for the moment
+* Teammates:
+    - Alexandru Vranceanu (@valexander)
+    - Alina Ivan (@apryllya)
+    - Leontin Stoea (@discordUserProfileName)
+* Seeking Teammates: No
+* [Project URL](https://github.com/stl30/ALA)
+* Project Name: coming soon
+
 ***
 
 # HoustonHacks
@@ -191,7 +291,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-
 # Farmer Helper
 ### Machine Learning powered application that can predict the disease plant is suffering from by just using the image and can also provide some suggestion for how to cure it. Discussion platform that enables farmers to discuss how he has to proceed further.
 * Teammates:
@@ -200,4 +299,17 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Coming Soon
 * Project Name: Farmerhelper
 
+***
+
+# MagiKart
+### Creating an eCommerce site using the Gatsby modern framework for blazing fast websites, hosted in GitHub, deployed with Netlify an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. This e-portal is including Shopping cart,  admin control for viewing the order information product information, New entry of product, edit the specified product, delete the product, User login password, new admin registration, data fetching from database, feedback form/rating, searching items using filters.
+* **Teammates of TeamHacky**:
+  - Ronique Ricketts (@NiQ)
+  - Harshil Agrawal (@harshil1712)
+  - Cremona Matei (@cremzoo)
+  - Abhishek Yadav (@phoenixabhishek)
+  - Lakshmi Chandana (@chandana)
+  - Linda Kovacs (@lindakovacs)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
 ***
