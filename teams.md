@@ -41,3 +41,12 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project Website](https://romantic-euler-651676.netlify.com/)
 * [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
 ***
+* **Team JAKE Teammates**:
+  - Jait Jacob (@jaitjacob)
+  - Adam Wier (@AdamWier)
+  - Kelby Baca (@kelby-baca)
+  - Eunice Park (@eunicode)
+* **Seeking Teammates**: Yes, if you're a coding wizard and want to donate your magical skills, or if you're familiar with React basics
+* [GitHub URL](https://github.com/teamjake2018/jake)
+
+***
