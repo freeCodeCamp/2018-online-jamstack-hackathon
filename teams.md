@@ -119,3 +119,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# JAKE
+### Undecided, but tentatively a scavenger hunt web app
+* **Teammates**:
+  - Jait Jacob (@jaitjacob)
+  - Adam Wier (@AdamWier)
+  - Kelby Baca (@kelby-baca)
+  - Eunice Park (@eunicode)
+* **Seeking Teammates**: Yes, if you're a coding wizard and want to donate your magical skills, or if you're familiar with React basics
+* [Project URL](https://github.com/teamjake2018/jake)
+* Project Name: coming soon
+
+***
+
