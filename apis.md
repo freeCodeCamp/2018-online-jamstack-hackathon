@@ -230,7 +230,7 @@ We'll be there hacking with you the whole time.
 
 ### Prizes
 
-Coming soon.
+Top team using Pilon will receive $150 cash prize.
 
 ***
 
