@@ -132,3 +132,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# ALA
+### Trying to decide for the moment
+* Teammates:
+    - Alexandru Vranceanu (@valexander)
+    - Alina Ivan (@apryllya)
+    - Leontin Stoea (@discordUserProfileName)
+* Seeking Teammates: No
+* [Project URL](https://github.com/stl30/ALA)
+* Project Name: coming soon
+
+***
+
