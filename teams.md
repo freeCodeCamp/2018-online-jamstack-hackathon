@@ -33,6 +33,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+
+# PawnShopify
+### An online pawn shop
+* **Teammates**:
+  - @Jarrod
+  - @smakosh
+  - @kBrew
+* **Seeking Teammates**: No
+* [Project URL](https://github.com/appleJax/pawn-shopify)
+* **Team Name**: Prestige Worldwide
+
+***
+
 # Quizard - swing your knowledge wand
 ### An online quiz app where questions would be asked on topics selected by the user. This is a timer-based quiz with four options for every question with only one being correct. Now, after successfully completing the quiz, the user will be mailed with a digital badge and the score reflecting his/her performance!
 * Teammates:
