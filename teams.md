@@ -33,6 +33,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Quizard - swing your knowledge wand
+### An online quiz app where questions would be asked on topics selected by the user. This is a timer-based quiz with four options for every question with only one being correct. Now, after successfully completing the quiz, the user will be mailed with a digital badge and the score reflecting his/her performance!
+* Teammates:
+    - Priyabrata Biswas (@pbiswas101)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/pbiswas101/Quizard)
+* Project Name - Quizard
+
+***
+
 # CMintS
 ### [CMintS](https://cmints.io) is a CMS and static site generator created with the internationalization in mind, but yet it's not deployable to the Netlify, the idea is to during current Hackathon create a Multilanguage websites, Themes and deploy them to the Netlify, meanwhile adapt actual [CMintS package](https://www.npmjs.com/package/cmints) to support Netlify deployment. Also document the deployment process in https://cmints.io.
 * Teammates:
