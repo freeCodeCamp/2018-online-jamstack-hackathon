@@ -33,6 +33,20 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Coming Soon
+### An AI app that detects and identifies diseases on skin and plants.
+* Teammates:
+    - Alfred Conlan (@Alfred#6356)
+    - Dennis Deamer (@Demird14#4032)
+    - Joseph Eton (@etonjoe#5279)
+    - Juan Garcia (@john</>#0065)
+    - imtan007 (@Tanmay#3030)
+* Seeking Teammates: No
+* [Project URL](https://github.com/AlfredConlan/fccHackathonTeamProject)
+* Project Name (comming soon)
+
+***
+
 # FindUrFeeling.
 ### Using FindYourFeeling, Any human can find their feeling based on Clarifai API mainly focused on facial expression detection.
 
