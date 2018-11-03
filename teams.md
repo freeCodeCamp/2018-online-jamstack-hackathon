@@ -312,6 +312,18 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Linda Kovacs (@lindakovacs)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
+
+***
+
+# HAKO
+### An app where we can choose and put the film we like on watchlist
+* Teammates
+  - Hiraz (@hiraz)
+  - Ali (@Ali)
+  - Ann (@kun)
+* Seeking teammate: Yes
+* [Project URL] (https://github.com/AnnLe4869/HackathonProject)
+
 ***
 
 # TIL - Today I Learned
@@ -325,4 +337,5 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seeking Teammates: No
 * [Project URL](https://github.com/ktan114/JAMstack-Hackathon)
 * [GitHub URL](https://jamstack-hackathon-project.netlify.com/)
- ***
+
+***
