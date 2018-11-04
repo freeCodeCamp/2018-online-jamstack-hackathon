@@ -172,7 +172,10 @@ A buy and sell website with auction.
 2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
 Hasura, Pilon, Netlify, more coming I think
 3. What is your plan to execute this idea?  
-Use Pilon to store product details, Hasura for the user credentials and chat
+Use Pilon to store product details, Hasura for the user credentials and chat (for the MINE!) 
+Then use netlify and netlify-lambda for hosting and auth.
+Problem is I do not know serverless, gatsby and webpack.
+So, this project will be incomplete, 100% guarenteed T_T
 
 ***
 # FccFriendshipTest
