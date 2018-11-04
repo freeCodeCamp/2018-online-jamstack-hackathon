@@ -128,8 +128,11 @@ We are going to use gatsby, react, and material-ui to build out the ui.  Then we
   - @Jarrod
   - @smakosh
   - @kBrew
+  - @CyberPutty
+  - @Mo
 * **Seeking Teammates**: No
 * [Project URL](https://github.com/appleJax/pawn-shopify)
+* [Live Site](https://pawn-shopify.netlify.com)
 * **Team Name**: Prestige Worldwide
 
 ***
