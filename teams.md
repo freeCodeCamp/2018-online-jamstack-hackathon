@@ -251,6 +251,14 @@ We are going to use gatsby, react, and material-ui to build out the ui.  Then we
 * Seeking Teammates: No
 * [Project URL](https://github.com/kartik2406/ingredo-fit)
 * Project Name: IngredoFit
+### Project Q&A:
+1. What are you going to build?  
+We are going to build a web app that will allow users to get an idea of what makes up their meal, how much calories they are eating, nutrional value. The meals will be analyzed by Clarifai api, which will give us a list of ingredients.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+ Clarifai for identifying ingredients. Firebase storage to store images uploaded by user.
+3. What is your plan to execute this idea?  
+First we will get upload logic figured out, chose firebase storeage. This uploaded image url is then sent to Clarifai for processing. Next we maintained a list of common food ingredients in our source file (We were supposed to use fauna for this but our data kept on vanishing from the db). With this our MVP would be ready, but it would be ugly. The next step is to beautify it and give it our style.
+
 
 ***
 
