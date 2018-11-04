@@ -177,6 +177,9 @@ Then use netlify and netlify-lambda for hosting and auth.
 Problem is I do not know serverless, gatsby and webpack.
 So, this project will be incomplete, 100% guarenteed T_T
 
+The plan now is to build everything that needs to use the lambda thingy (Pilon & Hasura?)
+then build the frontend part.
+
 ***
 # FccFriendshipTest
 ### A Simple JAMStack questions game App - More info coming soon
