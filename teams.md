@@ -379,11 +379,11 @@ Happy Healty Snack Jamming and coding hard!!!
 ***
 
 # Farmer Helper
-### Machine Learning powered application that can predict the disease plant is suffering from by just using the image and can also provide some suggestion for how to cure it. Discussion platform that enables farmers to discuss how he has to proceed further.
+### Machine Learning powered application that can predict the disease plant is suffering by just using the image and can also provide some suggestions for how to cure it. It scraps the web and immediately provide some good videos to look at and proceed further. Discussion platform that enables farmers to discuss how he has to proceed further to cure that disease as well as how to prevent it in future. This platform enables farmer to directly check the price of different product at nearby Agricultural produce market committee as well as check regular agriculture news like minimum support price declared by government etc. Notifies the user whenever 'kishan TV' youtube channel goes live. 
 * Teammates:
     - Hardik Modi (@hardik)
 * Seeking Teammates: No
-* Coming Soon
+* [Project URL](https://github.com/hardiked/helper)
 * Project Name: Farmerhelper
 
 ***
