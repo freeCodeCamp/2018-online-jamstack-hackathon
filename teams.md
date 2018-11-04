@@ -510,6 +510,27 @@ Our team is split between front- and back-end development, creating and styling 
 
 ***
 
+# MeetUb
+### Description:
+
+- This app will support users for meetup, find places and make new friends
+* Teammates:
+    - Navjeet Kaur (@navjeet)
+    - Khang Nguyen (@lee)
+    - Hadjer (@hadjer)
+* Seeking Teammates: No
+* Livesite: https://meetub.herokuapp.com/
+* Project Name: MeetUb
+### Project Q&A:
+1. What are you going to build?  
+- An app to support users for meetup, find places and make new friends
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+- Google Map APIs, Github API 
+3. What is your plan to execute this idea?  
+- An app to support users for meetup, find places and make new friends
+- 
+***
+
 # GitBit
 ### A a game that encourages new developers to create a habit of coding regularly and helping them become better developpers.
 * **Teammates**:
