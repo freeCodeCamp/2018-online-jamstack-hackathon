@@ -329,6 +329,17 @@ Stage 1.
 
 ***
 
+# MarketGraph
+### Helps you quickly obtain & collect user data on project ideas & campaigns.
+* Teammates:
+    - Andy Cary (@andycary)
+    - Hays Stanford(@hays)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/your-profile/your-project-name)
+* Project Name (ok to say tbd and update later)
+
+***
+
 # Extra-Life Donation Leaderboard
 ### In the spirit of Extra-Life Game Day raising money for Children's Miracle Network, we are creating a leaderboard to show the donations received from the members of our team and allows you to see live updates using React. 
 * Teammates:
