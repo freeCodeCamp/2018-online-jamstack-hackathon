@@ -199,8 +199,8 @@ The plan now is to build everything that needs to use the lambda thingy (Pilon &
 then build the frontend part.
 
 ***
-# FccFriendshipTest
-### A Simple JAMStack questions game App - More info coming soon
+# FriendsOverJAM
+### Simple set of JAMStack based games
 * Teammates:
     - Simon Xiong (@simonxcode)
     - Akhil Alluri (@techalien)
@@ -209,7 +209,14 @@ then build the frontend part.
     - Sunday Joe (@pac_admin)
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/techalien/FccFriendshipTest)
-* Coming soon
+* FriendsOverJAM
+### Project Q&A:
+1. What are you going to build?  
+Two games to demonstate JAMStack concepts
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+We are using FaunaDB, Netlify to AutoDeploy from GitHub 
+3. What is your plan to execute this idea?  
+We have divided the tasks into functional Units [DB APIs, React layout and the games.]. Each person will work on the respective feature branch, which shall be merged into **master** at milestones.  
 
 ***
 
