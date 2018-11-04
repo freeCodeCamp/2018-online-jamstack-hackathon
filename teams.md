@@ -47,7 +47,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-
 # Emote Journal
 ### A web application to track your mood.
 * Teammates:	* Teammates:
@@ -103,19 +102,20 @@ We are building an expense tracking app
 We plan on using netlify-identity and hasura
 3. What is your plan to execute this idea?  
 We are going to use gatsby, react, and material-ui to build out the ui.  Then we will use netlify identity to manage users and then make calls to hasura.  Our goal is to finish the ui today and spend tomorrow on the logic and connecting the db.
+
 ***
 
-# Coming Soon
+# DiseaseDetector
 ### An AI app that detects and identifies diseases on skin and plants.
 * Teammates:
     - Alfred Conlan (@Alfred#6356)
-    - Dennis Deamer (@Demird14#4032)
+    - Dennis Demir (@Demird14#4032)
     - Joseph Eton (@etonjoe#5279)
     - Juan Garcia (@john</>#0065)
     - imtan007 (@Tanmay#3030)
 * Seeking Teammates: No
 * [Project URL](https://github.com/AlfredConlan/fccHackathonTeamProject)
-* Project Name (comming soon)
+* Project Name (Disease Detector)
 
 ***
 
