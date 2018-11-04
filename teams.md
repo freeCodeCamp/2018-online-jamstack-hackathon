@@ -47,6 +47,20 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+
+# Emote Journal
+### A web application to track your mood.
+* Teammates:	* Teammates:
+    - Nicole Provan (@provanni#1363)
+    - Mariel Martinez (@Mares#3426)
+    - Ngoc Vuong (@Dragonza#2281)
+    - C Dharmateja (@dharmateja#2684)
+    	    
+* Seeking Teammates: No
+* [Project URL](https://github.com/provanni/2018-JAMstack-project)
+
+***
+
 # SunCodeFlower
 ### We created this team to participate in 2018 Online freeCodeCamp JAMstack Hackathon. Good luck to us!
 * **Teammates**:
@@ -425,5 +439,6 @@ First we will get upload logic figured out, chose firebase storeage. This upload
 * Seeking Teammates: No
 * [Project URL](https://github.com/ktan114/JAMstack-Hackathon)
 * [GitHub URL](https://jamstack-hackathon-project.netlify.com/)
+
 
 ***
