@@ -392,7 +392,17 @@ Happy Healty Snack Jamming and coding hard!!!
   - Linda Kovacs (@lindakovacs)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
+* [Live Site](https://magikart-hacky.netlify.com)
 
+### Project Q&A:
+1. What are you going to build?  
+An E-commerce site that will be able to provide product suggestions based on the uploaded image(using the clarifai recognition API)
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Pilon  
+Clarifai  
+Netlify
+3. What is your plan to execute this idea?  
+To have a smart shopping experience where a person can take an image of another person and get the products that appear in the image for shopping 
 ***
 
 # MarketGraph
