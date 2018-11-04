@@ -442,3 +442,30 @@ First we will get upload logic figured out, chose firebase storeage. This upload
 
 
 ***
+
+# Project Name
+### Less than 240 Characters describing what we're building. Include external links here if desired
+* Teammates:
+    - Rebecca Yip
+    - Julie Jonak
+    - Nicky Chen 
+    - Roland Canuto
+    - Kyran McCann
+    - Tommy Collison
+
+* Seeking Teammates: No
+* [https://github.com/recipeshopper](https://github.com/recipeshopper)
+* Project Name: Recipe Shopper
+
+### Project Q&A:
+1. What are you going to build?  
+A recipe shopper app that pulls in ingredient lists for recipes you'd like to make and returns a shopping list.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+We're planning on implementing a Fauna API.
+
+3. What is your plan to execute this idea?  
+Our team is split between front- and back-end development, creating and styling the app.
+
+
+***
