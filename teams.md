@@ -345,7 +345,28 @@ First we will get upload logic figured out, chose firebase storeage. This upload
     - Josh Medeski (@Big_Josh_7)
 * Seeking Teammates: No
 * [Project URL](https://github.com/electricgnome/smsRenewal)
-* Project Name: Renewal Reminder
+* Project Name: SMSRenewal
+
+***
+
+# JAMsnack
+### A web app to help making healthy eating decisions. Just take a picture of your food and see if it is healty or not.
+* Teammates:
+    - (@Korhan)
+    - (@Lexie)
+    - (@artoo)
+    - (@Jsifontez)
+    - (@Han)
+* Seeking Teammates: No
+* [Project URL](https://github.com/kakcura/JAMsnack)
+* Project Name: JAMsnack
+### Project Q&A:
+1. What are you going to build?  
+A web app to help making healthy eating decisions. Just take a picture of your food and see if it is healty or not.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Clarifai
+3. What is your plan to execute this idea?  
+Happy Healty Snack Jamming and coding hard!!!
 
 ***
 
@@ -469,3 +490,4 @@ Our team is split between front- and back-end development, creating and styling 
 
 
 ***
+
