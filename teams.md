@@ -82,7 +82,13 @@ Stage 1.
 * Seeking Teammates: No
 * [Project URL](https://github.com/ckarras11/fcc-hackathon)
 * Project Name SpareChange
-
+### Project Q&A:
+1. What are you going to build?  
+We are building an expense tracking app
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+We plan on using netlify-identity and hasura
+3. What is your plan to execute this idea?  
+We are going to use gatsby, react, and material-ui to build out the ui.  Then we will use netlify identity to manage users and then make calls to hasura.  Our goal is to finish the ui today and spend tomorrow on the logic and connecting the db.
 ***
 
 # Coming Soon
