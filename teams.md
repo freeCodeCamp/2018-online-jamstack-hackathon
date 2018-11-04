@@ -329,6 +329,19 @@ Stage 1.
 
 ***
 
+# Extra-Life Donation Leaderboard
+### In the spirit of Extra-Life Game Day raising money for Children's Miracle Network, we are creating a leaderboard to show the donations received from the members of our team and allows you to see live updates using React. 
+* Teammates:
+  - Christopher Tse (@Gavlois)
+  - Joe Matthews
+  - Hong L
+  - Natalie Fleming
+* Seaking Teammates: No
+* [Project URL](https://github.com/chris-tse/extralifeleaderboard)
+* Project Name: Extra-Life Donations Leaderboard
+
+***
+
 # 1000 Words
 ### A site where people can submit an image and get results based on the general feel of the image.
 * Teammates:
