@@ -430,6 +430,7 @@ To have a smart shopping experience where a person can take an image of another 
   - Joe Matthews
   - Hong L
   - Natalie Fleming
+  - Daniel Ashcraft
 * Seaking Teammates: No
 * [Project URL](https://github.com/chris-tse/extralifeleaderboard)
 * Project Name: Extra-Life Donations Leaderboard
