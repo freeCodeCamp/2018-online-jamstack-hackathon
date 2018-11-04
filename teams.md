@@ -166,6 +166,13 @@ We are going to use gatsby, react, and material-ui to build out the ui.  Then we
 * Seeking Teammates: No
 * [Project Website](https://romantic-euler-651676.netlify.com/)
 * [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
+### Project Q&A:
+1. What are you going to build?  
+A buy and sell website with auction.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Hasura, Pilon, Netlify, more coming I think
+3. What is your plan to execute this idea?  
+Use Pilon to store product details, Hasura for the user credentials and chat
 
 ***
 # FccFriendshipTest
