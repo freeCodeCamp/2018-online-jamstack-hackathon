@@ -58,7 +58,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 * **Seeking Teammates**: no
 * [GitHub URL](https://github.com/oshka/SunFoodApp)
-* SunFoodApp
+* **Project Name**: SunFoodApp
+
+### Project Q&A:
+**1. What are you going to build?**
+We are going to build an app for helping seekers to find specific dish/food. The app will direct to the local restaurants that have the dish and mentions its price and offer the restaurant menu. Also show directions to the restaurant from the user current location.  
+**2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  **
+Fauna (for call the db and receive data), Clarify (to detect food image), Formspree (for collecting delivery address), Pilon (because it's interesting to try)
+**3. What is your plan to execute this idea?  **
+Stage 1.
+* create a gallery of food pictures 
+* create a page to show food details 
+* create a page to search food 
+* create food database
 
 ***
 
@@ -132,6 +144,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ### [CMintS](https://cmints.io) is a CMS and static site generator created with the internationalization in mind, but yet it's not deployable to the Netlify, the idea is to during current Hackathon create a Multilanguage websites, Themes and deploy them to the Netlify, meanwhile adapt actual [CMintS package](https://www.npmjs.com/package/cmints) to support Netlify deployment. Also document the deployment process in https://cmints.io.
 * Teammates:
     - Manvel (@saroyanm)
+    - @Miss500
     - @OdearOgy
     - @satyendra
     - @nvs16
@@ -279,15 +292,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 # HoustonHacks
-### Reminder service that sends SMS/email renewal reminders to customers based on renewal date
+### Reminder service that sends SMS or email renewal reminders to customers based on renewal date.
 * Teammates:
     - Hector J. Saldana (@electricgnome)
     - Biko Allen (@kobi1021)
     - Earle Poole (@Emjp4)
     - Yetunde Sola-Adebayo (@yetunde79)
+    - Josh Medeski (@Big_Josh_7)
 * Seeking Teammates: No
 * [Project URL](https://github.com/electricgnome/smsRenewal)
-* Project Name: SMSRenewal
+* Project Name: Renewal Reminder
 
 ***
 
@@ -312,6 +326,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Linda Kovacs (@lindakovacs)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
+
 ***
 
 # Extra-Life Donation Leaderboard
@@ -324,5 +339,50 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Seaking Teammates: No
 * [Project URL](https://github.com/chris-tse/extralifeleaderboard)
 * Project Name: Extra-Life Donations Leaderboard
+
+***
+
+# 1000 Words
+### A site where people can submit an image and get results based on the general feel of the image.
+* Teammates:
+    - Daniel Ramsayer (@Neko#9307)
+    - Daniel Evans (@Gate#5312)
+    - Peter Durham (@funoptimizer#2690)
+    - Aaron Baker (@Muluul#6162)
+    - Tony Neuhold (@aneuhold#3384)
+* Seeking Teammates: No
+* [Project URL](https://1000-words.netlify.com/)
+### Project Q&A:
+1. What are you going to build?  
+	A site that will take in an image and return various results based on the words that the image provides. We will try to get it to return a poem, or some kind of book. We might try to add different kinds of results as well. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+	Clarifai, FaunaDB (probably)
+3. What is your plan to execute this idea?  
+	To test the basic idea of getting an image to return results in the form of a poem, or a list of thematically relavant material such as a small list of songs. After that we will try to build out different features. 🙂
+
+***
+
+# HAKO
+### An app where we can choose and put the film we like on watchlist
+* Teammates
+  - Hiraz (@hiraz)
+  - Ali (@Ali)
+  - Ann (@kun)
+* Seeking teammate: Yes
+* [Project URL] (https://github.com/AnnLe4869/HackathonProject)
+
+***
+
+# TIL - Today I Learned
+### An application that accepts user submitted tips and tricks for new programmers
+* Teammates:
+    - Kevin Tan (@Node)
+    - Joseph Thompson (@Jthomps838)
+    - Nick Piaskoski (@pieguy)
+    - Chris Watkin  (@DeafDucky)
+    - Ahmed Belhadj (@Ahmed)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ktan114/JAMstack-Hackathon)
+* [GitHub URL](https://jamstack-hackathon-project.netlify.com/)
 
 ***
