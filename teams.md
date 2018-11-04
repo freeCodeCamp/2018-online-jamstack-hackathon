@@ -492,3 +492,16 @@ Our team is split between front- and back-end development, creating and styling 
 
 ***
 
+# GitBit
+### A a game that encourages new developers to create a habit of coding regularly and helping them become better developpers.
+* **Teammates**:
+  - Minh Trinh (@minhat)
+  - Tatum Alenkov (@Taterz)
+  - David Tran (@PoutineNinja)
+  - Catalin Popescu (@DancingCat)
+  - Maria Tolymbek (@Daffodil509)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/tatumalenko/fcc-jamstack-hackathon-2018)
+* Project Name: GitBit
+
+***
